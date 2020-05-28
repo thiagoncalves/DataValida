@@ -1,0 +1,6 @@
+C:\Users\thiago.novaes\Desktop\Thiago\Programing\Homework - Decisao\Data_Valida\bin\Debug\Data Valida.exe.config
+C:\Users\thiago.novaes\Desktop\Thiago\Programing\Homework - Decisao\Data_Valida\bin\Debug\Data Valida.exe
+C:\Users\thiago.novaes\Desktop\Thiago\Programing\Homework - Decisao\Data_Valida\bin\Debug\Data Valida.pdb
+C:\Users\thiago.novaes\Desktop\Thiago\Programing\Homework - Decisao\Data_Valida\obj\Debug\Data Valida.csprojAssemblyReference.cache
+C:\Users\thiago.novaes\Desktop\Thiago\Programing\Homework - Decisao\Data_Valida\obj\Debug\Data Valida.exe
+C:\Users\thiago.novaes\Desktop\Thiago\Programing\Homework - Decisao\Data_Valida\obj\Debug\Data Valida.pdb
